@@ -2,9 +2,13 @@
 
 ## Introduction
 
+This is a forked version from the original repos.
+
+https://github.com/yanggis/n2n-utils
+
 A few bash scripts for managing a n2n based VPN.
 
-I run n2n for a community of Macintoshes.  These are the scripts I'm using.  They aren't quite right yet, but they may provide some helpful insights.
+The original scripts do not support Linux (Ubuntu) well. This one works quite well in Ubuntu 14.04.
 
 ## Getting started
 
